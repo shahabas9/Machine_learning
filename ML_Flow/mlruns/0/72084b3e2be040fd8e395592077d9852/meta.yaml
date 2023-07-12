@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/72084b3e2be040fd8e395592077d9852/artifacts
+end_time: 1689184357795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72084b3e2be040fd8e395592077d9852
+run_name: skittish-snipe-591
+run_uuid: 72084b3e2be040fd8e395592077d9852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689184355101
+status: 3
+tags: []
+user_id: shahabas

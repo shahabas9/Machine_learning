@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/c7f06e6d372d4a2d843e3f337f677379/artifacts
+end_time: 1689184353074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7f06e6d372d4a2d843e3f337f677379
+run_name: unruly-wren-621
+run_uuid: c7f06e6d372d4a2d843e3f337f677379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689184350189
+status: 3
+tags: []
+user_id: shahabas

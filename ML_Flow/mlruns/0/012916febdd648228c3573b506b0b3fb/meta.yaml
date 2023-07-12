@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/012916febdd648228c3573b506b0b3fb/artifacts
+end_time: 1689184404128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 012916febdd648228c3573b506b0b3fb
+run_name: shivering-cat-529
+run_uuid: 012916febdd648228c3573b506b0b3fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689184401066
+status: 3
+tags: []
+user_id: shahabas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/9e0d1c96cd36417c8541c39632010b35/artifacts
+end_time: 1689184444251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e0d1c96cd36417c8541c39632010b35
+run_name: rumbling-swan-636
+run_uuid: 9e0d1c96cd36417c8541c39632010b35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689184440729
+status: 3
+tags: []
+user_id: shahabas

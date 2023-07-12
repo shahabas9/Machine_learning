@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/6c6e7c448d4a42cdb0de15fdc7590c7b/artifacts
+end_time: 1689184447065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c6e7c448d4a42cdb0de15fdc7590c7b
+run_name: trusting-foal-568
+run_uuid: 6c6e7c448d4a42cdb0de15fdc7590c7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689184446095
+status: 4
+tags: []
+user_id: shahabas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/f12df15f524b44e1a7f844542bde9c1c/artifacts
+end_time: 1689182728124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f12df15f524b44e1a7f844542bde9c1c
+run_name: luxuriant-quail-445
+run_uuid: f12df15f524b44e1a7f844542bde9c1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689182723064
+status: 3
+tags: []
+user_id: shahabas

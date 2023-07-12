@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/943744488c5d46c78a6cf99785c0d3c4/artifacts
+end_time: 1689184438785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 943744488c5d46c78a6cf99785c0d3c4
+run_name: unruly-gull-469
+run_uuid: 943744488c5d46c78a6cf99785c0d3c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689184435322
+status: 3
+tags: []
+user_id: shahabas

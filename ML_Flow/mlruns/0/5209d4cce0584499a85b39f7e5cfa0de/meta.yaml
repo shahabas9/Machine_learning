@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/5209d4cce0584499a85b39f7e5cfa0de/artifacts
+end_time: 1689182179511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5209d4cce0584499a85b39f7e5cfa0de
+run_name: rumbling-doe-984
+run_uuid: 5209d4cce0584499a85b39f7e5cfa0de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689182179071
+status: 3
+tags: []
+user_id: shahabas

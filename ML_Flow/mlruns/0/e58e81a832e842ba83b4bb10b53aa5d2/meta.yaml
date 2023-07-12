@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/e58e81a832e842ba83b4bb10b53aa5d2/artifacts
+end_time: 1689184433428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e58e81a832e842ba83b4bb10b53aa5d2
+run_name: lyrical-boar-330
+run_uuid: e58e81a832e842ba83b4bb10b53aa5d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689184429635
+status: 3
+tags: []
+user_id: shahabas

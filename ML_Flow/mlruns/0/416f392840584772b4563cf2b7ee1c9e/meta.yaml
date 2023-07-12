@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/416f392840584772b4563cf2b7ee1c9e/artifacts
+end_time: 1689184417438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 416f392840584772b4563cf2b7ee1c9e
+run_name: handsome-perch-376
+run_uuid: 416f392840584772b4563cf2b7ee1c9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689184414052
+status: 3
+tags: []
+user_id: shahabas

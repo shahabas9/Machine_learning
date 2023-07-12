@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shahabas/shahabas/Machine_learning/ML_Flow/mlruns/0/f0dbf6083a304d868e985fa29d2ff266/artifacts
+end_time: 1689184367421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0dbf6083a304d868e985fa29d2ff266
+run_name: skittish-swan-992
+run_uuid: f0dbf6083a304d868e985fa29d2ff266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689184364425
+status: 3
+tags: []
+user_id: shahabas
